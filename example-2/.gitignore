@@ -1,5 +1,7 @@
-hello
-hello-dbg
+# Игнорируется релизный и отладочный исполняемые файлы
+Kazino-Royal
+Kazino-Royal-dbg
+
 # Промежуточные файлы
 *.o
 *.obj
@@ -8,7 +10,6 @@ hello-dbg
 
 # Объектные файлы
 *.class
-*.exe
 *.dll
 *.so
 *.a
