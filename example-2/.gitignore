@@ -1,0 +1,19 @@
+hello
+hello-dbg
+# Промежуточные файлы
+*.o
+*.obj
+*.tmp
+*.temp
+
+# Объектные файлы
+*.class
+*.exe
+*.dll
+*.so
+*.a
+
+# Временные файлы
+*.log
+*.bak
+*.swp
