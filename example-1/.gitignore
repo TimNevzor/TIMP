@@ -8,7 +8,6 @@ hello-dbg
 
 # Объектные файлы
 *.class
-*.exe
 *.dll
 *.so
 *.a
