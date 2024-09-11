@@ -1,2 +1,1 @@
-Simple project for study makefiles
-==================================
+My Github read me file
