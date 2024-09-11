@@ -1,3 +1,5 @@
+hello
+hello-dbg
 # Промежуточные файлы
 *.o
 *.obj
@@ -15,6 +17,3 @@
 *.log
 *.bak
 *.swp
-
-hello
-hello-dbg
